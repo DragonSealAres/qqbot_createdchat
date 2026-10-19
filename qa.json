@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "keyword": ["网址", "打不开"],
+    "question": "网址打不开",
+    "text": "请检查网络连接，核对链接是否正确，不要复制多余空格。",
+    "img_url": "",
+    "qqnum": "10001",
+    "time": "2026.10.19"
+  },
+  {
+    "id": 2,
+    "keyword": ["昵称"],
+    "question": "怎么修改群昵称",
+    "text": "打开群设置，点击「我的群昵称」即可修改。",
+    "img_url": "https://example.com/images/nickname.png",
+    "qqnum": "10002",
+    "time": "2026.10.19"
+  },
+  {
+    "id": 3,
+    "keyword": [],
+    "question": "如何提交作业",
+    "text": "请在学习通对应课程章节内提交作业，注意截止时间。",
+    "img_url": "",
+    "qqnum": "",
+    "time": ""
+  }
+]
